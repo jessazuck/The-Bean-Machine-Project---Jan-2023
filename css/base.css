@@ -1,0 +1,11 @@
+/* **** BASE STYLING **** */
+:root {
+  background-color: #FFFFFF;
+  --background-dark: #1D1C1C;
+  --card:#F6F2EF;
+  --accent-magenta: #FF5678;
+  --accent-green: #149770;
+  --text-primary: #1D1C1C;
+  --text-secondary:#787878;
+  --text-reversed: #FFFFFF;
+}

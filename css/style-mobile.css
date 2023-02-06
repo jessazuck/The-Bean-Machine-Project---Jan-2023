@@ -1,0 +1,84 @@
+/* **** MOBILE SCREEN STYLING **** */
+nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 37px;
+}
+
+nav .logo {
+  margin-bottom: 24px;
+}
+
+nav a {
+  padding-right: 0;
+  padding-top: 16px;
+}
+
+nav button {
+    margin-top: 24px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.illustration {
+  display: none;
+}
+
+
+.banner {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.left-banner {
+  text-align: center;
+  flex: 0 1 auto;
+}
+
+.banner h1 {
+  height: auto;
+  width: auto;
+  font-size: 72px;
+}
+
+input {
+  width: auto;
+  margin-bottom: 16px;
+}
+
+.about {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.special-offers {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.selection {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.selection-sort-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 49px;
+}
+
+.selection-sort-bar .header {
+  margin-bottom: 16px;
+}
+
+.offerings-container {
+  justify-content: center;
+}

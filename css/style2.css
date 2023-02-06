@@ -1,0 +1,60 @@
+/* **** SELECTION PAGE STYLING **** */
+.selection {
+  margin-left: 120px;
+  margin-right: 120px;
+  padding: 80px 0 80px 0;
+}
+
+.selection-sort-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 49px;
+}
+
+.selection-sort-bar .sort label {
+  padding-right: 24px;
+}
+
+.selection-sort-bar .sort button {
+  background-color: var(--card);
+  color: var(--text-primary);
+  padding: 12px 24px;
+}
+
+.selection-sort-bar .sort button img {
+  width: 15px;
+  padding-left: 45px;
+}
+
+.bean-offering {
+  position: relative;
+  justify-content: left;
+}
+
+.bean-offering label {
+  padding-top: 32px;
+  padding-bottom: 5px;
+}
+
+.bean-offering .label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 293px;
+}
+
+.bean-offering .origin {
+  width: 293px;
+  padding-bottom: 22px;
+}
+
+.available-banner {
+  background-color: var(--accent-green);
+  color: var(--text-reversed);
+  padding: 7px 16px;
+  border-radius: 20px 0 0 20px;
+  position: absolute;
+  top: 20px;
+  right: 0px;
+}
